@@ -61,7 +61,3 @@ In this project, we explored salary prediction for data-related professions usin
 - Explore more advanced machine learning models for salary prediction.
 - Investigate other factors (education, experience, location) that may impact salaries.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
